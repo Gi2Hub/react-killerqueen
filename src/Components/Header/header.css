@@ -1,0 +1,31 @@
+header{
+  width: 100%;
+  top:10px;
+}
+.button{
+  font-size: 16px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+a{
+  float: left;
+  padding: 14px;
+  margin-left: 70px;
+  margin-right: 70px;
+  border:solid;
+  border-color: #fbff00;
+  border-radius: 40px;
+  border-bottom-color: aqua;
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  background-color: rgba(46, 46, 46, 0.8);
+}
+.header{
+  color: #fff;
+  border: solid;
+  border-width: 5px;
+  border-color: rgb(228, 39, 187);
+  background-color:rgba(174, 0, 255, 0.424);
+}
